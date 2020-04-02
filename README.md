@@ -17,6 +17,7 @@ academic publications, please cite the following papers accordingly:
        the robust concept exploration method," in 6th AIAA/USAF/NASA/
        ISSMO Symposium on Multidiciplinary Analysis and Optimization,
        vol. 2, pp. 1535-1545. 
+       
     [2] Simpson, T.W., D'Souza, B.S. (2004), "Assessing variable levels
        of platform commonality within a product family using a
        multiobjective genetic algorithm," Concurrent Engineering:
