@@ -13,15 +13,15 @@ If this software is used in
 academic publications, please cite the following papers accordingly:
 
     [1] Simpson, T.W., Chen, W., Allen, J.K., and Mistree, F. (1996),
-      "Conceptual design of a family of products through the use of
-       the robust concept exploration method," in 6th AIAA/USAF/NASA/
-       ISSMO Symposium on Multidiciplinary Analysis and Optimization,
-       vol. 2, pp. 1535-1545. 
+        "Conceptual design of a family of products through the use of
+        the robust concept exploration method," in 6th AIAA/USAF/NASA/
+        ISSMO Symposium on Multidiciplinary Analysis and Optimization,
+        vol. 2, pp. 1535-1545. 
        
     [2] Simpson, T.W., D'Souza, B.S. (2004), "Assessing variable levels
-       of platform commonality within a product family using a
-       multiobjective genetic algorithm," Concurrent Engineering:
-       Research and Applications, vol. 12, no. 2, pp. 119-130.
+        of platform commonality within a product family using a
+        multiobjective genetic algorithm," Concurrent Engineering:
+        Research and Applications, vol. 12, no. 2, pp. 119-130.
  
     [3] Shah, R., Reed, P.M., and Simpson, T.W. (2011), "Many-objective
         evolutionary optimization and visual analytics for product
