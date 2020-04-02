@@ -34,12 +34,14 @@ academic publications, please cite the following papers accordingly:
 /* Implementation follows [3] and [4] */
 
  Input variables
+ ```
    vars: the array of decision variables (27)
-
+```
  Output variables
+   ```
    objs: the array of objectives (10)
    cons: the array of constraints (1)
-
+```
   Developed in MATLAB by:
   Mario Castro Gama
   PhD Researcher
